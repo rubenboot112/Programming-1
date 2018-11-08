@@ -1,0 +1,9 @@
+             Geordend    Muteerbaar  Iterable   D. Waarde
+
+Tuple          JA           NEE        NEE        JA
+
+Dictionary     NEE          JA         NEE        NEE
+
+Set            NEE          JA         NEE        NEE
+
+List           JA           JA         NEE        NEE
